@@ -22,7 +22,7 @@ div {
     display: flex;
     justify-content: space-around;
     padding: 20px;
-    font-color: #F3F6F1;
+    color: #F3F6F1;
 }
 
 img {
