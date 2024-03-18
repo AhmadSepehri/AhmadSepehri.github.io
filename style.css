@@ -25,6 +25,13 @@ div {
     color: #F3F6F1;
 }
 
+div-bio {
+    display: flex-inline;
+    justify-content: space-around;
+    padding: 20px;
+    color: #F3F6F1;
+}
+
 img {
     border-radius: 50%;
     width: 150px;
