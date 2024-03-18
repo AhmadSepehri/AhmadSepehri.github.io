@@ -26,7 +26,7 @@ div {
 }
 
 div-bio {
-    display: flex-inline;
+    display: inline-flex;
     justify-content: space-around;
     padding: 20px;
     color: #F3F6F1;
